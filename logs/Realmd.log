@@ -1,0 +1,26 @@
+2023-09-09 19:15:56 [CMaNGOS Auth server v0.18] port(3724)
+2023-09-09 19:15:56 
+
+       _____     __  __       _   _  _____  ____   _____ 
+      / ____|   |  \/  |     | \ | |/ ____|/ __ \ / ____|
+     | |        | \  / |     |  \| | |  __  |  | | (___  
+     | |ontinued| |\/| | __ _| . ` | | |_ | |  | |\___ \ 
+     | |____    | |  | |/ _` | |\  | |__| | |__| |____) |
+      \_____|   |_|  |_| (_| |_| \_|\_____|\____/ \____/ 
+      http://cmangos.net\__,_|     Doing emulation right!
+
+
+2023-09-09 19:15:56 Built on Sep  9 2023 at 18:07:47
+2023-09-09 19:15:56 Built for Win64 (little-endian)
+2023-09-09 19:15:56 Using commit hash(966698d9d4076df444a565db01b2a4623cb5100a) committed on 2023-09-09T10:24:04+02:00
+2023-09-09 19:15:56 Using configuration file realmd.conf.
+2023-09-09 19:15:56 
+2023-09-09 19:15:56 <Ctrl-C> to stop.
+2023-09-09 19:15:56 Login Database total connections: 2
+2023-09-09 19:15:56 MySQL client library: 8.0.23
+2023-09-09 19:15:56 MySQL server ver: 11.0.3-MariaDB-log 
+2023-09-09 19:15:56 MySQL client library: 8.0.23
+2023-09-09 19:15:56 MySQL server ver: 11.0.3-MariaDB-log 
+2023-09-09 19:16:17 Added realm id 1, name ''
+2023-09-09 19:16:17 realmd process priority class set to HIGH
+2023-09-09 19:16:17 
